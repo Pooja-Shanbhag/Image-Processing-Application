@@ -3,7 +3,7 @@ This project was developed as a final project for the course work (CS 5010 - Pro
  Paradigm) at Northeastern University. The source code of this project is in restricted mode, as
   per instructor's guidelines to avoid one's code being misused. 
   
-##### Note:  The code will be made available upon the request.
+##### Note:  The code will be made available upon the request. Click [here](mailto:pooja.shanbhag1993@gmail.com?Subject=Request%20to%20access%20repo)
   
 This project aims at providing tools for image processing.
 
