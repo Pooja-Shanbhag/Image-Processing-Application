@@ -1,5 +1,5 @@
 # Image Processing Application
-This project was developed as a final project for the course work (CS 5010 - Programming Design
+This application was developed as a final project for the course work (CS 5010 - Programming Design
  Paradigm) at Northeastern University. The source code of this project is in restricted mode, as
   per instructor's guidelines to avoid one's code being misused. 
   
